@@ -47,8 +47,7 @@ Insighta simplifies this by:
 ---
 
 ## 📸 Demo
-
-👉 (Paste your Loom video link here)
+https://www.loom.com/share/72eb187c9a0c4fe491ca41072c63955a
 
 ---
 
